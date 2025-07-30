@@ -1,0 +1,5 @@
+# TradeXpert
+TradeXpert is a real-time stock prediction and paper trading platform. Practice buying and selling stocks with AI-powered insights, track your portfolio, and sharpen your trading skills—all without financial risk.
+TradeXpert is an AI-powered real-time stock prediction and trading simulation platform designed for aspiring traders and market enthusiasts. The platform uses advanced algorithms to deliver live stock price predictions, helping users make informed trading decisions. With a built-in paper trading feature, users can practice buying and selling stocks in a risk-free environment using virtual money, track their portfolio growth, and analyze performance over time.
+
+TradeXpert bridges the gap between learning and real-world trading by providing realistic market simulations, AI-driven insights, and an intuitive dashboard that visualizes portfolio performance, gains, and losses. Whether you're a beginner looking to understand the stock market or an experienced trader testing strategies, TradeXpert offers the perfect environment to sharpen your trading skills.
